@@ -1,0 +1,1088 @@
+{
+    "1": {
+        "name": "is",
+        "attributes": {
+            "relation": "root",
+            "upos": "AUX"
+        },
+        "children": [
+            {
+                "name": "\u201c",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "unprecedented",
+                "attributes": {
+                    "relation": "advcl",
+                    "upos": "ADJ"
+                },
+                "children": [
+                    {
+                        "name": "While",
+                        "attributes": {
+                            "relation": "mark",
+                            "upos": "SCONJ"
+                        }
+                    },
+                    {
+                        "name": "much",
+                        "attributes": {
+                            "relation": "nsubj",
+                            "upos": "ADJ"
+                        },
+                        "children": [
+                            {
+                                "name": "transition",
+                                "attributes": {
+                                    "relation": "nmod",
+                                    "upos": "NOUN"
+                                },
+                                "children": [
+                                    {
+                                        "name": "of",
+                                        "attributes": {
+                                            "relation": "case",
+                                            "upos": "ADP"
+                                        }
+                                    },
+                                    {
+                                        "name": "the",
+                                        "attributes": {
+                                            "relation": "det",
+                                            "upos": "DET"
+                                        }
+                                    },
+                                    {
+                                        "name": "digital",
+                                        "attributes": {
+                                            "relation": "amod",
+                                            "upos": "ADJ"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "is",
+                        "attributes": {
+                            "relation": "cop",
+                            "upos": "AUX"
+                        }
+                    },
+                    {
+                        "name": "States",
+                        "attributes": {
+                            "relation": "obl",
+                            "upos": "PROPN"
+                        },
+                        "children": [
+                            {
+                                "name": "in",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            },
+                            {
+                                "name": "the",
+                                "attributes": {
+                                    "relation": "det",
+                                    "upos": "DET"
+                                }
+                            },
+                            {
+                                "name": "United",
+                                "attributes": {
+                                    "relation": "compound",
+                                    "upos": "PROPN"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ",",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "transition",
+                "attributes": {
+                    "relation": "nsubj",
+                    "upos": "NOUN"
+                },
+                "children": [
+                    {
+                        "name": "the",
+                        "attributes": {
+                            "relation": "det",
+                            "upos": "DET"
+                        }
+                    },
+                    {
+                        "name": "peaceful",
+                        "attributes": {
+                            "relation": "amod",
+                            "upos": "ADJ"
+                        }
+                    },
+                    {
+                        "name": "power",
+                        "attributes": {
+                            "relation": "nmod",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "of",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "not",
+                "attributes": {
+                    "relation": "advmod",
+                    "upos": "ADV"
+                }
+            },
+            {
+                "name": ",",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "\u201d",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "wrote",
+                "attributes": {
+                    "relation": "parataxis",
+                    "upos": "VERB"
+                },
+                "children": [
+                    {
+                        "name": "assistant",
+                        "attributes": {
+                            "relation": "nsubj",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "Obama",
+                                "attributes": {
+                                    "relation": "compound",
+                                    "upos": "PROPN"
+                                }
+                            },
+                            {
+                                "name": "special",
+                                "attributes": {
+                                    "relation": "amod",
+                                    "upos": "ADJ"
+                                }
+                            },
+                            {
+                                "name": "Kori",
+                                "attributes": {
+                                    "relation": "flat",
+                                    "upos": "PROPN"
+                                }
+                            },
+                            {
+                                "name": "Schulman",
+                                "attributes": {
+                                    "relation": "flat",
+                                    "upos": "PROPN"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "post",
+                        "attributes": {
+                            "relation": "obl",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "in",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            },
+                            {
+                                "name": "a",
+                                "attributes": {
+                                    "relation": "det",
+                                    "upos": "DET"
+                                }
+                            },
+                            {
+                                "name": "blog",
+                                "attributes": {
+                                    "relation": "compound",
+                                    "upos": "NOUN"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monday",
+                        "attributes": {
+                            "relation": "nmod:tmod",
+                            "upos": "PROPN"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": ".",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            }
+        ]
+    },
+    "2": {
+        "name": "different",
+        "attributes": {
+            "relation": "root",
+            "upos": "ADJ"
+        },
+        "children": [
+            {
+                "name": "those",
+                "attributes": {
+                    "relation": "obl",
+                    "upos": "PRON"
+                },
+                "children": [
+                    {
+                        "name": "For",
+                        "attributes": {
+                            "relation": "case",
+                            "upos": "ADP"
+                        }
+                    },
+                    {
+                        "name": "follow",
+                        "attributes": {
+                            "relation": "acl:relcl",
+                            "upos": "VERB"
+                        },
+                        "children": [
+                            {
+                                "name": "who",
+                                "attributes": {
+                                    "relation": "nsubj",
+                                    "upos": "PRON"
+                                }
+                            },
+                            {
+                                "name": "transitions",
+                                "attributes": {
+                                    "relation": "obj",
+                                    "upos": "NOUN"
+                                },
+                                "children": [
+                                    {
+                                        "name": "media",
+                                        "attributes": {
+                                            "relation": "compound",
+                                            "upos": "NOUN"
+                                        },
+                                        "children": [
+                                            {
+                                                "name": "social",
+                                                "attributes": {
+                                                    "relation": "amod",
+                                                    "upos": "ADJ"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Hill",
+                                        "attributes": {
+                                            "relation": "nmod",
+                                            "upos": "PROPN"
+                                        },
+                                        "children": [
+                                            {
+                                                "name": "on",
+                                                "attributes": {
+                                                    "relation": "case",
+                                                    "upos": "ADP"
+                                                }
+                                            },
+                                            {
+                                                "name": "Capitol",
+                                                "attributes": {
+                                                    "relation": "compound",
+                                                    "upos": "PROPN"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ",",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "this",
+                "attributes": {
+                    "relation": "nsubj",
+                    "upos": "PRON"
+                }
+            },
+            {
+                "name": "will",
+                "attributes": {
+                    "relation": "aux",
+                    "upos": "AUX"
+                }
+            },
+            {
+                "name": "be",
+                "attributes": {
+                    "relation": "cop",
+                    "upos": "AUX"
+                }
+            },
+            {
+                "name": "little",
+                "attributes": {
+                    "relation": "obl:npmod",
+                    "upos": "ADJ"
+                },
+                "children": [
+                    {
+                        "name": "a",
+                        "attributes": {
+                            "relation": "det",
+                            "upos": "DET"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": ".",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            }
+        ]
+    },
+    "3": {
+        "name": "proclaimed",
+        "attributes": {
+            "relation": "root",
+            "upos": "VERB"
+        },
+        "children": [
+            {
+                "name": "But",
+                "attributes": {
+                    "relation": "cc",
+                    "upos": "CCONJ"
+                }
+            },
+            {
+                "name": "break",
+                "attributes": {
+                    "relation": "obl",
+                    "upos": "NOUN"
+                },
+                "children": [
+                    {
+                        "name": "in",
+                        "attributes": {
+                            "relation": "case",
+                            "upos": "ADP"
+                        }
+                    },
+                    {
+                        "name": "a",
+                        "attributes": {
+                            "relation": "det",
+                            "upos": "DET"
+                        }
+                    },
+                    {
+                        "name": "rhetoric",
+                        "attributes": {
+                            "relation": "nmod",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "from",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            },
+                            {
+                                "name": "his",
+                                "attributes": {
+                                    "relation": "nmod:poss",
+                                    "upos": "PRON"
+                                }
+                            },
+                            {
+                                "name": "past",
+                                "attributes": {
+                                    "relation": "amod",
+                                    "upos": "ADJ"
+                                }
+                            },
+                            {
+                                "name": "curtailing",
+                                "attributes": {
+                                    "relation": "acl",
+                                    "upos": "VERB"
+                                },
+                                "children": [
+                                    {
+                                        "name": "about",
+                                        "attributes": {
+                                            "relation": "mark",
+                                            "upos": "ADP"
+                                        }
+                                    },
+                                    {
+                                        "name": "immigration",
+                                        "attributes": {
+                                            "relation": "obj",
+                                            "upos": "NOUN"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ",",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "nominee",
+                "attributes": {
+                    "relation": "nsubj",
+                    "upos": "NOUN"
+                },
+                "children": [
+                    {
+                        "name": "the",
+                        "attributes": {
+                            "relation": "det",
+                            "upos": "DET"
+                        }
+                    },
+                    {
+                        "name": "GOP",
+                        "attributes": {
+                            "relation": "compound",
+                            "upos": "PROPN"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "allow",
+                "attributes": {
+                    "relation": "ccomp",
+                    "upos": "VERB"
+                },
+                "children": [
+                    {
+                        "name": "that",
+                        "attributes": {
+                            "relation": "mark",
+                            "upos": "SCONJ"
+                        }
+                    },
+                    {
+                        "name": "president",
+                        "attributes": {
+                            "relation": "obl",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "as",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "he",
+                        "attributes": {
+                            "relation": "nsubj",
+                            "upos": "PRON"
+                        }
+                    },
+                    {
+                        "name": "would",
+                        "attributes": {
+                            "relation": "aux",
+                            "upos": "AUX"
+                        }
+                    },
+                    {
+                        "name": "numbers",
+                        "attributes": {
+                            "relation": "obj",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "\u201c",
+                                "attributes": {
+                                    "relation": "punct",
+                                    "upos": "PUNCT"
+                                }
+                            },
+                            {
+                                "name": "tremendous",
+                                "attributes": {
+                                    "relation": "amod",
+                                    "upos": "ADJ"
+                                }
+                            },
+                            {
+                                "name": "\u201d",
+                                "attributes": {
+                                    "relation": "punct",
+                                    "upos": "PUNCT"
+                                }
+                            },
+                            {
+                                "name": "immigrants",
+                                "attributes": {
+                                    "relation": "nmod",
+                                    "upos": "NOUN"
+                                },
+                                "children": [
+                                    {
+                                        "name": "of",
+                                        "attributes": {
+                                            "relation": "case",
+                                            "upos": "ADP"
+                                        }
+                                    },
+                                    {
+                                        "name": "legal",
+                                        "attributes": {
+                                            "relation": "amod",
+                                            "upos": "ADJ"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "based",
+                        "attributes": {
+                            "relation": "advcl",
+                            "upos": "VERB"
+                        },
+                        "children": [
+                            {
+                                "name": "system",
+                                "attributes": {
+                                    "relation": "obl",
+                                    "upos": "NOUN"
+                                },
+                                "children": [
+                                    {
+                                        "name": "on",
+                                        "attributes": {
+                                            "relation": "case",
+                                            "upos": "ADP"
+                                        }
+                                    },
+                                    {
+                                        "name": "a",
+                                        "attributes": {
+                                            "relation": "det",
+                                            "upos": "DET"
+                                        }
+                                    },
+                                    {
+                                        "name": "\u201c",
+                                        "attributes": {
+                                            "relation": "punct",
+                                            "upos": "PUNCT"
+                                        }
+                                    },
+                                    {
+                                        "name": "merit",
+                                        "attributes": {
+                                            "relation": "compound",
+                                            "upos": "NOUN"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ".",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "\u201d",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            }
+        ]
+    },
+    "4": {
+        "name": "hate",
+        "attributes": {
+            "relation": "root",
+            "upos": "VERB"
+        },
+        "children": [
+            {
+                "name": "\u201c",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "So",
+                "attributes": {
+                    "relation": "advmod",
+                    "upos": "ADV"
+                }
+            },
+            {
+                "name": "I",
+                "attributes": {
+                    "relation": "nsubj",
+                    "upos": "PRON"
+                }
+            },
+            {
+                "name": "put",
+                "attributes": {
+                    "relation": "xcomp",
+                    "upos": "VERB"
+                },
+                "children": [
+                    {
+                        "name": "to",
+                        "attributes": {
+                            "relation": "mark",
+                            "upos": "PART"
+                        }
+                    },
+                    {
+                        "name": "pressure",
+                        "attributes": {
+                            "relation": "obj",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "a",
+                                "attributes": {
+                                    "relation": "det",
+                                    "upos": "DET"
+                                }
+                            },
+                            {
+                                "name": "little",
+                                "attributes": {
+                                    "relation": "amod",
+                                    "upos": "ADJ"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "you",
+                        "attributes": {
+                            "relation": "obl",
+                            "upos": "PRON"
+                        },
+                        "children": [
+                            {
+                                "name": "on",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ",",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "rests",
+                "attributes": {
+                    "relation": "conj",
+                    "upos": "VERB"
+                },
+                "children": [
+                    {
+                        "name": "but",
+                        "attributes": {
+                            "relation": "cc",
+                            "upos": "CCONJ"
+                        }
+                    },
+                    {
+                        "name": "fate",
+                        "attributes": {
+                            "relation": "nsubj",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "the",
+                                "attributes": {
+                                    "relation": "det",
+                                    "upos": "DET"
+                                }
+                            },
+                            {
+                                "name": "republic",
+                                "attributes": {
+                                    "relation": "nmod",
+                                    "upos": "NOUN"
+                                },
+                                "children": [
+                                    {
+                                        "name": "of",
+                                        "attributes": {
+                                            "relation": "case",
+                                            "upos": "ADP"
+                                        }
+                                    },
+                                    {
+                                        "name": "the",
+                                        "attributes": {
+                                            "relation": "det",
+                                            "upos": "DET"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shoulders",
+                        "attributes": {
+                            "relation": "obl",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "on",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "ADP"
+                                }
+                            },
+                            {
+                                "name": "your",
+                                "attributes": {
+                                    "relation": "nmod:poss",
+                                    "upos": "PRON"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ",",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "\u201d",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            },
+            {
+                "name": "told",
+                "attributes": {
+                    "relation": "parataxis",
+                    "upos": "VERB"
+                },
+                "children": [
+                    {
+                        "name": "he",
+                        "attributes": {
+                            "relation": "nsubj",
+                            "upos": "PRON"
+                        }
+                    },
+                    {
+                        "name": "crowd",
+                        "attributes": {
+                            "relation": "obj",
+                            "upos": "NOUN"
+                        },
+                        "children": [
+                            {
+                                "name": "the",
+                                "attributes": {
+                                    "relation": "det",
+                                    "upos": "DET"
+                                }
+                            },
+                            {
+                                "name": "gathered",
+                                "attributes": {
+                                    "relation": "acl",
+                                    "upos": "VERB"
+                                },
+                                "children": [
+                                    {
+                                        "name": "field",
+                                        "attributes": {
+                                            "relation": "obl",
+                                            "upos": "NOUN"
+                                        },
+                                        "children": [
+                                            {
+                                                "name": "on",
+                                                "attributes": {
+                                                    "relation": "case",
+                                                    "upos": "ADP"
+                                                }
+                                            },
+                                            {
+                                                "name": "a",
+                                                "attributes": {
+                                                    "relation": "det",
+                                                    "upos": "DET"
+                                                }
+                                            },
+                                            {
+                                                "name": "sports",
+                                                "attributes": {
+                                                    "relation": "compound",
+                                                    "upos": "NOUN"
+                                                }
+                                            },
+                                            {
+                                                "name": "University",
+                                                "attributes": {
+                                                    "relation": "nmod",
+                                                    "upos": "PROPN"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "name": "at",
+                                                        "attributes": {
+                                                            "relation": "case",
+                                                            "upos": "ADP"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "the",
+                                                        "attributes": {
+                                                            "relation": "det",
+                                                            "upos": "DET"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Carolina",
+                                                        "attributes": {
+                                                            "relation": "nmod",
+                                                            "upos": "PROPN"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "name": "of",
+                                                                "attributes": {
+                                                                    "relation": "case",
+                                                                    "upos": "ADP"
+                                                                }
+                                                            },
+                                                            {
+                                                                "name": "North",
+                                                                "attributes": {
+                                                                    "relation": "compound",
+                                                                    "upos": "PROPN"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ".",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            }
+        ]
+    },
+    "5": {
+        "name": "fueled",
+        "attributes": {
+            "relation": "root",
+            "upos": "VERB"
+        },
+        "children": [
+            {
+                "name": "spending",
+                "attributes": {
+                    "relation": "nsubj:pass",
+                    "upos": "NOUN"
+                },
+                "children": [
+                    {
+                        "name": "The",
+                        "attributes": {
+                            "relation": "det",
+                            "upos": "DET"
+                        }
+                    },
+                    {
+                        "name": "new",
+                        "attributes": {
+                            "relation": "amod",
+                            "upos": "ADJ"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "is",
+                "attributes": {
+                    "relation": "aux:pass",
+                    "upos": "AUX"
+                }
+            },
+            {
+                "name": "account",
+                "attributes": {
+                    "relation": "obl",
+                    "upos": "NOUN"
+                },
+                "children": [
+                    {
+                        "name": "by",
+                        "attributes": {
+                            "relation": "case",
+                            "upos": "ADP"
+                        }
+                    },
+                    {
+                        "name": "Clinton",
+                        "attributes": {
+                            "relation": "nmod:poss",
+                            "upos": "PROPN"
+                        },
+                        "children": [
+                            {
+                                "name": "\u2019s",
+                                "attributes": {
+                                    "relation": "case",
+                                    "upos": "PART"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "large",
+                        "attributes": {
+                            "relation": "amod",
+                            "upos": "ADJ"
+                        }
+                    },
+                    {
+                        "name": "bank",
+                        "attributes": {
+                            "relation": "compound",
+                            "upos": "NOUN"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": ".",
+                "attributes": {
+                    "relation": "punct",
+                    "upos": "PUNCT"
+                }
+            }
+        ]
+    }
+}
