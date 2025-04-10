@@ -1,0 +1,23 @@
+{
+  "name": "tree_hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchel34/Tree_HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchel34/Tree_HW/issues"
+  },
+  "homepage": "https://github.com/Mitchel34/Tree_HW#readme",
+  "description": "",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "express": "^5.1.0"
+  }
+}
